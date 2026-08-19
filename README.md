@@ -4,11 +4,11 @@ The modpack is based on AstralRinth (Modrinth)
 
 ---
 
-Ru:
+**Ru:**
 Индустриальное выживание на основе связки модов Mekanism, HBM Nuclear Community Edition, Tech guns и Refined Storage
 с главной угрозой в виде параллельно развивающихся паразитов, а также более нечестными мобами
 
-En:
+**En:**
 Industrial survival based on a combination of the Mekanism, HBM Nuclear Community Edition, Techguns, and Refined Storage mods,
 featuring a major threat in the form of parasites that evolve alongside the player, as well as particularly formidable mobs.
 
